@@ -26,4 +26,22 @@ h2 {
 h3 {
     font-style: oblique;
     font-weight: bold;
+    }
+
+main {
+    padding-left: 1%;
+    }    
+
+#Primo-hr {
+    background-color: #fa8507;
+    border: 0px;
+    height: 3px;
+    }   
+
+#Secondo-hr {
+    margin-right: 20%; 
+    margin-left: 20%;
+    background-color: #fa8507;
+    border: 0px;
+    height: 1px;
 }
